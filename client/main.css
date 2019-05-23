@@ -1,0 +1,17 @@
+body {
+	padding: 10px;
+	font-family: sans-serif;
+}
+
+.image{
+	height : 225px;
+	width : 100%;
+}
+
+#addImgPreview {
+	width: 250px;
+}
+
+.js-addImg {
+	color: white;
+}
